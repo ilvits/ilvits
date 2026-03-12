@@ -29,9 +29,3 @@ Self-hosted infrastructure running on Unraid with 20+ Docker Compose stacks:
 - **GitHub Actions** — CI/CD pipelines
 - **Terraform + Ansible** — infrastructure as code
 - **AWS** — Cloud Practitioner → Solutions Architect
-
-## 🌐 Links
-
-- 🏠 [fairybrains.com](https://fairybrains.com)
-- 💼 [homelab repo](https://github.com/ilvits/homelab)
-
