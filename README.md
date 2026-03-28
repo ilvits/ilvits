@@ -17,16 +17,13 @@ I run a production-grade homelab that serves as both a daily-use platform and a 
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 
 ## Currently Learning (2026)
 
-- Python — scripting and automation
 - Grafana + Prometheus + Loki — observability stack
 - GitHub Actions — CI/CD pipelines
 - AWS Cloud Practitioner
+- Python — scripting and automation
 
 ## Homelab
 
