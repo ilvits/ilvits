@@ -1,7 +1,7 @@
 # Hi, I'm Ilya
 
-Self-taught infrastructure engineer transitioning into DevOps.
-I run a production-grade homelab that serves as both a daily-use platform and a hands-on learning environment.
+I build and operate production-grade self-hosted infrastructure.
+Currently moving toward a DevOps/platform engineering role.
 
 ## Skills
 
@@ -27,7 +27,9 @@ I run a production-grade homelab that serves as both a daily-use platform and a 
 
 ## Homelab
 
-Self-hosted infrastructure on Unraid — 23 Docker Compose stacks:
+23 Docker Compose stacks running 24/7 on Unraid since 2024 — 75+ Home Assistant automations,
+9 cameras with real-time object detection (Coral TPU), automated music discovery pipeline,
+and a 1.88 TB photo archive with cold offsite backup to AWS Glacier Deep Archive.
 
 | Category | Stacks |
 |----------|--------|
