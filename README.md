@@ -5,7 +5,7 @@ I run a production-grade homelab that serves as both a daily-use platform and a 
 
 ## Skills
 
-**Core** — Docker · Docker Compose · Linux (Unraid / Ubuntu) · Bash · Git\
+**Core** — Docker · Docker Compose · Linux (Unraid / Ubuntu) · Bash · Python · Git\
 **Networking** — MikroTik · WireGuard · AmneziaWG · Pi-hole · Nginx Proxy Manager\
 **Auth & Security** — Authentik SSO · Vaultwarden · UFW · secrets management\
 **Monitoring** — Uptime Kuma · Beszel · Telegram alerting
@@ -27,7 +27,7 @@ I run a production-grade homelab that serves as both a daily-use platform and a 
 
 ## Homelab
 
-Self-hosted infrastructure on Unraid — 22 Docker Compose stacks:
+Self-hosted infrastructure on Unraid — 23 Docker Compose stacks:
 
 | Category | Stacks |
 |----------|--------|
@@ -35,6 +35,8 @@ Self-hosted infrastructure on Unraid — 22 Docker Compose stacks:
 | Media | Jellyfin, Sonarr, Radarr, Lidarr, Immich, Seafile, Navidrome |
 | Monitoring | Beszel, Uptime Kuma, Frigate NVR (Coral TPU) |
 | Productivity | Vikunja, Joplin, Mealie, Homepage |
+| Automation | iCloudPD Watchdog (Telegram bot + 2FA), Lidarr Discovery |
+| Infrastructure | Dockge, Duplicati, AppRise, SFTPGo |
 | Network | MikroTik hEX, WireGuard + AmneziaWG VPN, Pi-hole HA pair |
 
 → [github.com/ilvits/homelab](https://github.com/ilvits/homelab)
